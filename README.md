@@ -4,7 +4,7 @@ A real-time hand-sign recognition project built with Python, OpenCV, MediaPipe
 and scikit-learn. It reads the webcam, finds the hand, and shows which of six
 ASL letters is being signed.
 
-Created by: [Your Name], Class 12, [School Name]
+Created by: Akshaay Suresh, Class 12, Our Own English High School Sharjah Boy's Branch
 
 ## Supported letters
 **A, B, I, L, V, Y** only. This project does **not** recognise the full ASL
@@ -51,9 +51,8 @@ On macOS, allow camera access for your Python editor when asked.
 - Accuracy on a hidden 20% test split: **99.3%**. This number is optimistic
   because the test data came from the same recording session as the training
   data.
-- Informal live testing: [write what you saw, for example "A, B, L and Y were
-  recognised reliably; I and V were sometimes shown as Unknown"].
-
+- Informal live testing: - A, B and L were recognised reliably. V and Y were
+  sometimes shown as Unknown when the lighting was dim.
 ## Screenshots
 ![Recognised letter](sign_projectfinal/screenshots/recognized_letter.png)
 ![Unknown gesture](sign_projectfinal/screenshots/unknown_gesture.png)
