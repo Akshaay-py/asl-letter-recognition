@@ -55,10 +55,9 @@ On macOS, allow camera access for your Python editor when asked.
   recognised reliably; I and V were sometimes shown as Unknown"].
 
 ## Screenshots
-![Recognised letter](recognized_letter.png)
-![Unknown gesture](unknown_gesture.png)
-![No hand](no_hand.png)
-
+![Recognised letter](screenshots/recognized_letter.png)
+![Unknown gesture](screenshots/unknown_gesture.png)
+![No hand](screenshots/no_hand.png)
 ## Limitations
 - Only 6 static letters are supported. The other letters are not recognised.
   Many look alike to a camera (for example A, E, M, N, S and T are all fists).
